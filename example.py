@@ -31,8 +31,6 @@ def check_password():
         return True
 
 if check_password():
-    st.write("Here goes your normal Streamlit app...")
-    st.button("Click me")
     #main code
     st.title("Hello! this is where the space management app would be")
 
