@@ -39,7 +39,7 @@ def check_password():
 
 if check_password():
     #main code
-    st.video(https://www.youtube.com/watch?v=RnsRRdYdXN0)
+    st.video(data='https://www.youtube.com/watch?v=RnsRRdYdXN0')
     st.title("Hello! this is where the space management app would be")
 
     HR_file = st.file_uploader("This is where users would upload HR data files stored locally on their machine or in approved KU locations",type='csv',)
