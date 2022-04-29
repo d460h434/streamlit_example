@@ -38,8 +38,6 @@ def check_password():
         return True
 
 if check_password():
-
-if check_password():
     #main code
     st.title("Hello! this is where the space management app would be")
 
